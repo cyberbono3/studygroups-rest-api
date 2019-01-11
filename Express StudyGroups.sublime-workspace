@@ -1,0 +1,925 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pos",
+				"postgresql"
+			],
+			[
+				"readB",
+				"readBits"
+			],
+			[
+				"read",
+				"readBit"
+			],
+			[
+				"readb",
+				"readBits"
+			],
+			[
+				"rea",
+				"readBits"
+			],
+			[
+				"if",
+				"ifndef"
+			],
+			[
+				"code",
+				"codeWords"
+			],
+			[
+				"size",
+				"sizeof"
+			],
+			[
+				"hea",
+				"headerSize"
+			],
+			[
+				"freq",
+				"freqMap"
+			],
+			[
+				"rege",
+				"regex_search"
+			],
+			[
+				"s",
+				"symbol"
+			],
+			[
+				"cod",
+				"codeWords"
+			],
+			[
+				"for",
+				"forv	Vector For Loop"
+			],
+			[
+				"navbar-default",
+				"navbar-default-link-color"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"ins",
+				"Instructions"
+			],
+			[
+				"inst",
+				"instructions_list"
+			],
+			[
+				"de",
+				"description"
+			],
+			[
+				"ingredinets",
+				"ingredient_list"
+			],
+			[
+				"ing",
+				"ingredient_list"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"b",
+				"bootstrap"
+			],
+			[
+				"font-",
+				"font-style"
+			],
+			[
+				"vi",
+				"visibility"
+			],
+			[
+				"visi",
+				"visibility"
+			],
+			[
+				"tabl",
+				"table-cell"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"border-bottom",
+				"border-bottom-color"
+			],
+			[
+				"backgrou",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "router/routes/auth.js",
+			"settings":
+			{
+				"buffer_size": 2199,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "router/routes/studygroup.js",
+			"settings":
+			{
+				"buffer_size": 1115,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "services/AuthService.js",
+			"settings":
+			{
+				"buffer_size": 657,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Volumes/Storage/Development/sometests/studygroup/api/services/AuthServices.js",
+			"settings":
+			{
+				"buffer_size": 741,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "services/Redis.js",
+			"settings":
+			{
+				"buffer_size": 360,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "bin/www",
+			"settings":
+			{
+				"buffer_size": 1437,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "router/index.js",
+			"settings":
+			{
+				"buffer_size": 218,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "models/StudyGroup.js",
+			"settings":
+			{
+				"buffer_size": 811,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "models/User.js",
+			"settings":
+			{
+				"buffer_size": 947,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"upg",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"refres",
+				"Project: Refresh Folders"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"INSTALL",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 475.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Volumes/Storage/Development/studygroups",
+		"/Volumes/Storage/Development/studygroups/node_modules/sails-postgresql"
+	],
+	"file_history":
+	[
+		"/Volumes/Storage/Development/sometests/studygroup/api/models/StudyGroup.js",
+		"/Volumes/Storage/Development/sometests/studygroup/api/services/Redis.js",
+		"/Volumes/Storage/Users/ganeshdatta/Documents/Node/studygroups/models/StudyGroup.js",
+		"/Volumes/Storage/Users/ganeshdatta/Documents/Node/studygroups/models/index.js",
+		"/Volumes/Storage/Development/sometests/studygroup/api/controllers/StudyGroupController.js",
+		"/Volumes/Storage/Development/sometests/studygroup/api/controllers/AuthController.js",
+		"/Volumes/Storage/Development/sometests/studygroup/api/models/User.js",
+		"/Volumes/Storage/Users/ganeshdatta/Documents/Node/studygroups/app.js",
+		"/Volumes/Storage/Users/ganeshdatta/Documents/Node/studygroups/config/config.json",
+		"/Volumes/Storage/Users/ganeshdatta/Documents/Node/studygroups/models/User.js",
+		"/Volumes/Storage/Users/ganeshdatta/Documents/Node/studygroups/routes/index.js",
+		"/Volumes/Storage/Users/ganeshdatta/Documents/Node/studygroups/router/users.js",
+		"/Volumes/Storage/Users/ganeshdatta/Dropbox/Documents/College/Winter 2015/CSE 100/pa3/P3/tester.sh",
+		"/Volumes/Storage/Users/ganeshdatta/Dropbox/Documents/College/Winter 2015/CSE 100/pa3/P3/consoleOutTwo",
+		"/Volumes/Storage/Users/ganeshdatta/Dropbox/Documents/College/Winter 2015/CSE 100/pa3/P3/consoleOut",
+		"/Volumes/Storage/Users/ganeshdatta/Dropbox/Documents/College/Winter 2015/CSE 100/pa3/P3/OutputCompressed",
+		"/Volumes/Storage/Users/ganeshdatta/Dropbox/Documents/College/Winter 2015/CSE 100/pa3/P3/HCNode.cpp",
+		"/Volumes/Storage/Users/ganeshdatta/Dropbox/Documents/College/Winter 2015/CSE 100/pa3/P3/BitOutputStream.hpp",
+		"/Volumes/Storage/Users/ganeshdatta/Dropbox/Documents/College/Winter 2015/CSE 100/pa3/P3/console",
+		"/Volumes/Storage/Users/ganeshdatta/Dropbox/Documents/College/Winter 2015/CSE 100/pa3/P3/compress",
+		"/Volumes/Storage/Users/ganeshdatta/Dropbox/Documents/College/Winter 2015/CSE 100/pa3/P3/input_files/BitOutputStream.hpp",
+		"/Volumes/Storage/Users/ganeshdatta/Library/Application Support/Sublime Text 3/Packages/User/MacTerminal.sublime-settings",
+		"/Volumes/Storage/Users/ganeshdatta/Dropbox/Documents/College/Winter 2015/CSE 100/pa3/P3/HCTree.hpp",
+		"/Volumes/Storage/Users/ganeshdatta/Dropbox/Documents/College/Winter 2015/CSE 100/pa3/P3/uncompress.cpp",
+		"/Volumes/Storage/Users/ganeshdatta/Dropbox/Documents/College/Winter 2015/CSE 100/pa3/P3/HCTree.cpp",
+		"/Volumes/Storage/Users/ganeshdatta/Dropbox/Documents/College/Winter 2015/CSE 100/pa3/P3/input_files/checkpoint2.txt",
+		"/Volumes/Storage/Users/ganeshdatta/Dropbox/Documents/College/Winter 2015/CSE 100/pa3/P3/HCNode.hpp",
+		"/Volumes/Storage/Users/ganeshdatta/Dropbox/Documents/College/Winter 2015/CSE 100/pa3/P3/test.cpp",
+		"/Volumes/Storage/Users/ganeshdatta/Dropbox/Documents/College/Winter 2015/CSE 100/pa3/P3/Makefile",
+		"/Volumes/Storage/Users/ganeshdatta/Dropbox/Documents/College/Winter 2015/CSE 100/pa3/P3/PA3.sublime-project",
+		"/Volumes/Storage/Users/ganeshdatta/Dropbox/Documents/College/Winter 2015/CSE 100/pa3/P3/input_files/checkpoint1.txt",
+		"/Volumes/Storage/Users/ganeshdatta/Dropbox/Documents/College/Winter 2015/CSE 100/pa3/P3/testing.cpp",
+		"/Volumes/Storage/Users/ganeshdatta/Dropbox/Documents/College/Winter 2015/CSE 100/pa3/P3/test.tex",
+		"/Volumes/Storage/Users/ganeshdatta/Library/Application Support/Sublime Text 3/Packages/User/CPP Snippets.sublime-snippet",
+		"/Volumes/Storage/Users/ganeshdatta/Library/Application Support/Sublime Text 3/Packages/User/CPP Variable Cout.sublime-snippet",
+		"/Volumes/Storage/Users/ganeshdatta/Dropbox/Documents/College/Winter 2015/CSE 100/pa3/P3/UnCompressed",
+		"/Users/ganeshdatta/Documents/PA3/P3/something",
+		"/Users/ganeshdatta/Library/Application Support/Sublime Text 3/Packages/User/MacTerminal.sublime-settings",
+		"/Users/ganeshdatta/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/ganeshdatta/Documents/Node Experiments/expresstest/myapp/views/layouts/main.handlebars",
+		"/Users/ganeshdatta/Documents/Node Experiments/expresstest/myapp/views/index.handlebars",
+		"/Users/ganeshdatta/Documents/Node Experiments/expresstest/myapp/views/error.jade",
+		"/Users/ganeshdatta/Documents/Node Experiments/expresstest/myapp/views/index.jade",
+		"/Users/ganeshdatta/Documents/Node Experiments/hello/example.js",
+		"/Users/ganeshdatta/Downloads/bootstrap-3.2.0/less/media.less",
+		"/Users/ganeshdatta/Documents/htdocs/fr/wp-content/themes/securaid/header.php",
+		"/Users/ganeshdatta/Documents/htdocs/fr/wp-content/themes/securaid/entry.php",
+		"/private/var/folders/cf/7t9v8f1d09dc5fdgb45pqf580000gn/T/84cb23bc-5fcd-436e-b2b9-21114c8f8623/public_html/wp-content/themes/hueman/functions/shortcodes.php",
+		"/Users/ganeshdatta/Documents/htdocs/fr/wp-content/themes/hueman/functions.php",
+		"/Users/ganeshdatta/Documents/htdocs/fr/wp-content/themes/hueman/responsive.css",
+		"/Users/ganeshdatta/Documents/htdocs/fr/wp-content/themes/hueman/responsive.large.css",
+		"/Users/ganeshdatta/Documents/foodfeed/foodfeed/feed/templates/comments/form.html",
+		"/Users/ganeshdatta/Downloads/solid/theme/assets/css/style.css",
+		"/private/var/folders/cf/7t9v8f1d09dc5fdgb45pqf580000gn/T/84cb23bc-5fcd-436e-b2b9-21114c8f8623/public_html/wp-content/themes/hueman-child/style.css",
+		"/Users/ganeshdatta/Documents/htdocs/securaid/wp-content/themes/securaid_three/assets/vendor/bootstrap/less/scaffolding.less",
+		"/Users/ganeshdatta/Documents/htdocs/securaid/wp-content/themes/securaid_three/assets/less/main.less",
+		"/Users/ganeshdatta/Documents/htdocs/securaid/wp-content/themes/securaid_two/sidebar.php",
+		"/Users/ganeshdatta/Documents/htdocs/securaid/wp-content/themes/securaid_two/entry-footer.php",
+		"/Users/ganeshdatta/Documents/htdocs/securaid/wp-content/themes/securaid_two/nav-below.php",
+		"/Users/ganeshdatta/Documents/htdocs/securaid/wp-content/themes/securaid_two/parts/top-bar.php",
+		"/Users/ganeshdatta/Documents/htdocs/securaid/wp-content/themes/securaid_two/header.php",
+		"/Users/ganeshdatta/Documents/htdocs/securaid/wp-content/themes/securaid_two/single.php",
+		"/Users/ganeshdatta/Documents/htdocs/securaid/wp-content/themes/securaid_two/entry-content.php",
+		"/Users/ganeshdatta/Documents/htdocs/securaid/wp-content/themes/securaid_two/entry-meta.php",
+		"/Users/ganeshdatta/Documents/htdocs/securaid/wp-content/themes/securaid_two/functions.php",
+		"/Users/ganeshdatta/Documents/htdocs/securaid/wp-content/themes/securaid_two/entry.php",
+		"/Users/ganeshdatta/Documents/htdocs/securaid/wp-content/themes/securaid_two/scss/config/_variables.scss",
+		"/Users/ganeshdatta/Documents/htdocs/securaid/wp-content/themes/securaid_two/scss/config/_colors.scss",
+		"/Users/ganeshdatta/Documents/htdocs/securaid/wp-content/themes/securaid_two/scss/app.scss",
+		"/Users/ganeshdatta/Documents/htdocs/securaid/wp-content/themes/securaid_two/parts/off-canvas-menu.php",
+		"/Users/ganeshdatta/Documents/htdocs/securaid/wp-content/themes/securaid_two/library/navigation.php",
+		"/Users/ganeshdatta/Documents/htdocs/securaid/wp-content/themes/securaid_two/library/cleanup.php",
+		"/Users/ganeshdatta/Documents/htdocs/securaid/wp-content/themes/securaid_two/footer.php",
+		"/Users/ganeshdatta/Documents/htdocs/securaid/wp-content/themes/securaid_two/library/widget-areas.php",
+		"/Users/ganeshdatta/Documents/htdocs/securaid/wp-content/themes/securaid_two/library/theme-support.php",
+		"/Users/ganeshdatta/Documents/htdocs/securaid/wp-content/themes/securaid/parts/top-bar.php",
+		"/Users/ganeshdatta/Documents/htdocs/securaid/wp-content/themes/securaid/library/enqueue-scripts.php",
+		"/Users/ganeshdatta/Documents/htdocs/securaid/wp-content/themes/securaid/content.php",
+		"/Users/ganeshdatta/Documents/htdocs/securaid/wp-content/themes/securaid_two/scss/config/_settings.scss",
+		"/Users/ganeshdatta/Downloads/securaid_two/scss/config/_settings.scss",
+		"/private/var/folders/cf/7t9v8f1d09dc5fdgb45pqf580000gn/T/db2a3590-7ab3-40ad-8f47-b609b00dcef3/home/tybcqpox/public_html/wp-content/themes/securaid/footer.php",
+		"/private/var/folders/cf/7t9v8f1d09dc5fdgb45pqf580000gn/T/db2a3590-7ab3-40ad-8f47-b609b00dcef3/home/tybcqpox/public_html/wp-content/themes/securaid/header.php",
+		"/private/var/folders/cf/7t9v8f1d09dc5fdgb45pqf580000gn/T/db2a3590-7ab3-40ad-8f47-b609b00dcef3/home/tybcqpox/public_html/wp-content/themes/securaid/functions.php",
+		"/private/var/folders/cf/7t9v8f1d09dc5fdgb45pqf580000gn/T/84cb23bc-5fcd-436e-b2b9-21114c8f8623/public_html/wp-content/plugins/wysija-newsletters/js/validate/jquery.validationEngine.js",
+		"/private/var/folders/cf/7t9v8f1d09dc5fdgb45pqf580000gn/T/84cb23bc-5fcd-436e-b2b9-21114c8f8623/public_html/wp-content/themes/hueman/style.css",
+		"/Users/ganeshdatta/Downloads/bootstrap-3.2.0-dist/css/bootstrap.css",
+		"/private/var/folders/cf/7t9v8f1d09dc5fdgb45pqf580000gn/T/db2a3590-7ab3-40ad-8f47-b609b00dcef3/home/tybcqpox/public_html/wp-content/themes/securaid/style.css",
+		"/Users/ganeshdatta/Downloads/Track1.ram",
+		"/Users/ganeshdatta/Documents/SecurAid Files/UPS Hack Locations.html",
+		"/Users/ganeshdatta/Documents/SecurAid Files/UPS Hack Locations",
+		"/private/var/folders/cf/7t9v8f1d09dc5fdgb45pqf580000gn/T/db2a3590-7ab3-40ad-8f47-b609b00dcef3/home/tybcqpox/public_html/wp-content/themes/securaid/js/custom.js",
+		"/private/var/folders/cf/7t9v8f1d09dc5fdgb45pqf580000gn/T/db2a3590-7ab3-40ad-8f47-b609b00dcef3/home/tybcqpox/public_html/wp-content/plugins/jetpack/modules/widgets/top-posts.php",
+		"/private/var/folders/cf/7t9v8f1d09dc5fdgb45pqf580000gn/T/com.soulmen.ulysses3.demo/91524f66218b4c9dacc0ccb21eb1bc41/d884d85404524b528a0d90a385e0fd63/RichText/Swiss Knife (copy).ulss",
+		"/Users/ganeshdatta/Documents/StudyGroups/extuser/models.py",
+		"/Users/ganeshdatta/Documents/StudyGroups/StudyGroups/settings.py",
+		"/Users/ganeshdatta/Documents/StudyGroups/extuser/admin.py",
+		"/Users/ganeshdatta/Documents/StudyGroups/extuser/forms.py",
+		"/Users/ganeshdatta/Downloads/gurudev/index.html",
+		"/private/var/folders/cf/7t9v8f1d09dc5fdgb45pqf580000gn/T/db2a3590-7ab3-40ad-8f47-b609b00dcef3/home/tybcqpox/public_html/ganeshdatta/wp-content/themes/ganeshdatta/style.css",
+		"/private/var/folders/cf/7t9v8f1d09dc5fdgb45pqf580000gn/T/db2a3590-7ab3-40ad-8f47-b609b00dcef3/home/tybcqpox/public_html/ganeshdatta/wp-config.php",
+		"/Users/ganeshdatta/Documents/htdocs/wp-content/themes/ganeshdatta/homepage.php",
+		"/Users/ganeshdatta/Documents/htdocs/securaid/wp-content/themes/securaid/info_page.php",
+		"/Users/ganeshdatta/Documents/htdocs/securaid/wp-content/themes/securaid/homepage.php",
+		"/Users/ganeshdatta/Documents/htdocs/securaid/wp-content/themes/securaid/comments.php",
+		"/Users/ganeshdatta/Documents/htdocs/securaid/wp-content/themes/securaid/entry-meta.php",
+		"/Users/ganeshdatta/Documents/htdocs/securaid/wp-content/themes/securaid/functions.php",
+		"/Users/ganeshdatta/Documents/htdocs/securaid/wp-content/themes/securaid/categorylist.php",
+		"/Users/ganeshdatta/Documents/htdocs/securaid/wp-content/themes/securaid/single-entry.php",
+		"/Users/ganeshdatta/Documents/htdocs/securaid/wp-content/themes/securaid/category.php",
+		"/Users/ganeshdatta/Documents/htdocs/securaid/wp-content/themes/securaid/single.php",
+		"/Users/ganeshdatta/Documents/htdocs/securaid/wp-content/themes/securaid/nav-below-single.php",
+		"/Users/ganeshdatta/Documents/htdocs/securaid/wp-content/themes/securaid/page.php",
+		"/Users/ganeshdatta/Documents/htdocs/securaid/wp-content/themes/securaid/header.php",
+		"/Users/ganeshdatta/Documents/htdocs/securaid/wp-content/themes/securaid/entry.php",
+		"/Users/ganeshdatta/Documents/htdocs/securaid/wp-content/themes/securaid/js/waypoints.zip",
+		"/Users/ganeshdatta/Documents/htdocs/securaid/wp-content/themes/securaid/entry-footer.php",
+		"/Users/ganeshdatta/Documents/htdocs/securaid/wp-content/themes/securaid/footer.php",
+		"/Users/ganeshdatta/Documents/htdocs/securaid/wp-content/themes/securaid/index.php",
+		"/Users/ganeshdatta/Documents/htdocs/wp-content/plugins/gdportfolio/photacity-post-type.php",
+		"/Users/ganeshdatta/Documents/htdocs/wp-content/themes/ganeshdatta/sidebar.php",
+		"/Users/ganeshdatta/Documents/htdocs/wp-content/themes/ganeshdatta/comments.php",
+		"/Users/ganeshdatta/Documents/htdocs/wp-content/themes/ganeshdatta/wp_bootstrap_navwalker.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"startTime",
+			"cout",
+			"0110",
+			"deleteAll",
+			"Output",
+			"ostream",
+			"Output",
+			"OUTPUT",
+			"6",
+			"0110 0001",
+			"0110 0000",
+			" ",
+			"mystack",
+			"leaves",
+			"n",
+			"freqs",
+			"char",
+			"readBytes",
+			"leaf",
+			"i",
+			"pq",
+			"freqs",
+			"freqMap",
+			"myMap",
+			"memblock",
+			"file",
+			"ul ",
+			"ul",
+			"list",
+			"navbar-",
+			"font-size",
+			"background",
+			"panel-title",
+			"navbar",
+			"\\n",
+			"' . \\$this->style(.*?)\\. '>'",
+			"ul>",
+			"' . \\$this->style(.*?)\\. '>'",
+			"}\n",
+			"#",
+			"960",
+			"960px",
+			"  ",
+			"navbar",
+			"-theme.css",
+			"pkg.name",
+			"bootstrap-theme",
+			"color:gray",
+			"header",
+			"\">\n",
+			"blankslate",
+			"fixed",
+			"fix",
+			"nav",
+			"foundationpress",
+			"e\\.",
+			"e.",
+			"05",
+			"<li>(.*?)<br/>",
+			"// \\$",
+			"//",
+			"<li><strong>(.*?)</strong>",
+			"\\$",
+			" \\n",
+			"\\n",
+			"<p>(\\d+)\\.(\\d+).(\\d+)</p>",
+			"<tr>\n<td><img></td>\n</tr>",
+			"<tr>\\s</tr>",
+			"<tr></tr>",
+			"\\n\\n",
+			"<td></td>",
+			"<(.*?) (.*?)>",
+			".jpg<",
+			".png<",
+			"> ",
+			"& ",
+			"</li>\\n\\n",
+			"<Li>",
+			";*/\n",
+			"securaid",
+			"blankslate",
+			"shadow",
+			".post",
+			"excerpt",
+			"?>\n",
+			" %',",
+			"ganeshdatta",
+			"blankslate",
+			"photacity",
+			" {",
+			"blankslate",
+			"?>\n",
+			"blankslate"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"0011 0001",
+			"0011 0000",
+			"",
+			">'",
+			"\\t",
+			"securaid",
+			"<li>\\n\\t<h2>\\1</h2>\\n\\t",
+			"<li>\\n\\t<h2>\\1</h2>\\n",
+			"\\$",
+			"",
+			"<li><h2>\\1</h2>",
+			"jQuery",
+			"",
+			"\\1/\\2/\\3",
+			"",
+			"\\n",
+			"",
+			"<\\1>",
+			"</1>",
+			".jpg\" /><",
+			".png\" /><",
+			">",
+			"&amp;",
+			"</li>\\n",
+			"<li>\\n",
+			"<li>",
+			"ganeshdatta",
+			"securaid",
+			".home-post",
+			"securaid",
+			"ganeshdatta"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "router/routes/auth.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2199,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1005,
+								1005
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "router/routes/studygroup.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1115,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1089,
+								796
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "services/AuthService.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 657,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								373,
+								373
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Volumes/Storage/Development/sometests/studygroup/api/services/AuthServices.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 741,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								122,
+								122
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "services/Redis.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 360,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								360,
+								360
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "bin/www",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1437,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								594,
+								594
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "router/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 218,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								192,
+								192
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 7,
+					"file": "models/StudyGroup.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 811,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								811,
+								811
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "models/User.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 947,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								597,
+								609
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 98.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "Express StudyGroups.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"outpu",
+				"OutputCompressed"
+			],
+			[
+				"output",
+				"OutputCompressed"
+			],
+			[
+				"conso",
+				"consoleOutTwo"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 231.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
